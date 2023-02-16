@@ -1,0 +1,15 @@
+/Users/larisayakovleva/Desktop/task2/task10/bin/Debug/net6.0/task10
+/Users/larisayakovleva/Desktop/task2/task10/bin/Debug/net6.0/task10.deps.json
+/Users/larisayakovleva/Desktop/task2/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/Users/larisayakovleva/Desktop/task2/task10/bin/Debug/net6.0/task10.dll
+/Users/larisayakovleva/Desktop/task2/task10/bin/Debug/net6.0/task10.pdb
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.dll
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/refint/task10.dll
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.pdb
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
+/Users/larisayakovleva/Desktop/task2/task10/obj/Debug/net6.0/ref/task10.dll
